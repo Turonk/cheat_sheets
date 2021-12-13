@@ -83,7 +83,7 @@ $ ls
 dir_name_1 dir_name_2 file_name.txt new_dir_name old_file.txt
 ```
 
-**rm** *имя_файла* — удалить указанные файл;
+**rm** *имя_файла* — удалить файл;
 ```bash
 $ rm old_file.txt
 $ ls 
