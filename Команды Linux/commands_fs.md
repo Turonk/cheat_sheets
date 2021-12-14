@@ -35,9 +35,6 @@ $ cd /home/username/dir_name
 **mkdir** *имя_директории* - создать новую директорию в текущей
 ```bash
 $ mkdir new_dir_name
-$ ls
-
-dir_name_1 dir_name_2 file_name.txt new_dir_name
 ```
 
 **mkdir** */полный_путь_от_корневой_директории/имя_новой_директории/* — создать новую директорию по указанному пути
@@ -73,9 +70,6 @@ $ rm old_file.txt
 **cp** */путь_до_файла/имя_файла /новый_путь_до_файла/имя_файл*а — копировать указанный файл в другую директорию. В пути "куда" копируется файл можно указать ему другое имя.
 ```bash
 $ rm file_name.txt /home/username/dir_name_2/file_name.txt
-$ ls /home/username/dir_name_2
-
-file_name.txt
 ```
 
 **clear** — очистить окно терминала
