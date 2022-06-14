@@ -63,7 +63,7 @@ $ cat new_file.txt
 
 **mv** *текущее_имя_файла новое_имя_файла* — переименовать файл:
 ```bash
-$ touch old_file.txt new_file.txt
+$ mv old_file.txt new_file.txt
 ```
 
 **rm** *имя_файла* — удалить файл:
