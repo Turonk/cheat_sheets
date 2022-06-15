@@ -73,7 +73,7 @@ $ rm old_file.txt
 
 **cp** */путь_до_файла/имя_файла /новый_путь_до_файла/имя_файла* — копировать файл из одной директории в другую. При копировании можно задать новое имя файла:
 ```bash
-$ rm file_name.txt /home/username/dir_name_2/new_file_name.txt
+$ cp file_name.txt /home/username/dir_name_2/new_file_name.txt
 ```
 
 **clear** — очистить всю выведенную в консоль информацию, начать «с чистого листа».
